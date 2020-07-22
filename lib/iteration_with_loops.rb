@@ -15,7 +15,7 @@ while row_index < src.count do
     element_index += 1
 
   end
-  min_temps << temp
+  min_temps << min_value
   row_index += 1
 end
 min_temps
